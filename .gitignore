@@ -1,0 +1,33 @@
+# Secrets - never commit API keys
+.env
+.streamlit/secrets.toml
+secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Photos uploaded through the app (may be personal)
+app/uploads/
+
+# Web-sourced training images: copyrighted by their owners, not ours to redistribute
+wound_dataset/raw/
+wound_dataset/dataset/**/*.jpg
+wound_dataset/dataset/**/*.jpeg
+wound_dataset/dataset/**/*.png
+wound_dataset/contact_sheets/
+
+# Duplicate model copies (the app uses the ones in app/)
+wound_dataset/model.pt
+wound_dataset/attribute_model.pt
+
+# Demo videos and recordings (too large for GitHub)
+*.mp4
+*.mov
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini

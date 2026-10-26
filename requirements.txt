@@ -1,0 +1,7 @@
+streamlit
+pandas
+pillow
+torch
+torchvision
+google-genai
+anthropic

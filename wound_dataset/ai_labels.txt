@@ -1,0 +1,232 @@
+# batch 1 (sheets 1-5)
+1.1: edges, pus, dark
+1.2: none
+1.3: redness, swelling
+1.4: redness, swelling, spreading
+1.5: none
+1.6: swelling, pus
+1.7: edges, pus
+1.8: edges
+1.9: redness, spreading, swelling, pus
+1.10: dark
+1.11: redness, swelling
+1.12: redness, spreading
+2.1: none
+2.2: redness, spreading
+2.3: redness, spreading
+2.4: edges, pus
+2.5: redness, swelling
+2.6: dark, edges, swelling
+2.7: none
+2.8: swelling, dark
+2.9: none
+2.10: edges, redness, spreading, pus
+2.11: redness, spreading, edges
+2.12: redness, swelling
+3.1: swelling, redness
+3.2: redness
+3.3: redness, pus, edges
+3.4: redness, spreading
+3.5: redness, spreading, pus, edges
+3.6: redness, pus
+3.7: none
+3.8: none
+3.9: dark, edges
+3.10: dark, redness, spreading, edges
+3.11: none
+3.12: redness, edges, dark
+4.1: edges
+4.2: edges, pus, redness
+4.3: redness, spreading, swelling
+4.4: none
+4.5: none
+4.6: none
+4.7: none
+4.8: none
+4.9: none
+4.10: none
+4.11: none
+4.12: none
+5.1: none
+5.2: none
+5.3: none
+5.4: none
+5.5: none
+5.6: redness
+5.7: none
+5.8: none
+5.9: none
+5.10: none
+5.11: none
+5.12: none
+# batch 2 (sheets 6-10)
+6.1: none
+6.2: none
+6.3: none
+6.4: none
+6.5: none
+6.6: redness
+6.7: none
+6.8: none
+6.9: none
+6.10: none
+6.11: none
+6.12: none
+7.1: swelling
+7.2: none
+7.3: none
+7.4: none
+7.5: none
+7.6: none
+7.7: none
+7.8: none
+7.9: none
+7.10: junk
+7.11: none
+7.12: none
+8.1: none
+8.2: none
+8.3: none
+8.4: none
+8.5: none
+8.6: none
+8.7: none
+8.8: none
+8.9: none
+8.10: junk
+8.11: junk
+8.12: none
+9.1: none
+9.2: none
+9.3: none
+9.4: none
+9.5: none
+9.6: none
+9.7: redness
+9.8: redness
+9.9: none
+9.10: none
+9.11: none
+9.12: none
+10.1: none
+10.2: none
+10.3: none
+10.4: none
+10.5: none
+10.6: none
+10.7: none
+10.8: none
+10.9: none
+10.10: none
+10.11: none
+10.12: redness
+
+# corrections to batch 1 (later lines override earlier ones)
+4.4: junk
+4.5: junk
+
+# batch 3 (sheets 11-15)
+11.1: junk
+11.2: none
+11.3: none
+11.4: redness
+11.5: none
+11.6: redness, spreading
+11.7: none
+11.8: none
+11.9: none
+11.10: none
+11.11: none
+11.12: none
+12.1: none
+12.2: redness
+12.3: redness
+12.4: none
+12.5: none
+12.6: none
+12.7: redness
+12.8: none
+12.9: redness
+12.10: none
+12.11: none
+12.12: none
+13.1: junk
+13.2: none
+13.3: junk
+13.4: none
+13.5: redness
+13.6: redness
+13.7: none
+13.8: redness
+13.9: none
+13.10: redness
+13.11: none
+13.12: none
+14.1: redness
+14.2: redness
+14.3: redness, spreading
+14.4: redness, swelling, pus, spreading
+14.5: redness, swelling, pus
+14.6: redness, edges, spreading
+14.7: dark
+14.8: redness, swelling, spreading
+14.9: none
+14.10: none
+14.11: none
+14.12: none
+15.1: redness
+15.2: redness
+15.3: none
+15.4: junk
+15.5: junk
+15.6: redness
+15.7: none
+15.8: junk
+15.9: redness
+15.10: none
+15.11: none
+15.12: none
+16.1: none
+16.2: none
+16.3: none
+16.4: redness
+16.5: none
+16.6: none
+16.7: none
+16.8: junk
+16.9: redness
+16.10: clear
+16.11: junk
+16.12: redness, dark
+17.1: redness, dark
+17.2: redness, dark
+17.3: junk
+17.4: redness, spreading
+17.5: none
+17.6: redness
+17.7: none
+17.8: none
+17.9: redness
+17.10: none
+17.11: junk
+17.12: none
+18.1: redness
+18.2: none
+18.3: redness
+18.4: junk
+18.5: none
+18.6: none
+18.7: none
+18.8: none
+18.9: none
+18.10: none
+18.11: none
+18.12: none
+19.1: none
+19.2: none
+19.3: none
+19.4: redness
+19.5: none
+19.6: none
+19.7: redness
+19.8: none

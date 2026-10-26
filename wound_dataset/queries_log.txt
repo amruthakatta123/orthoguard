@@ -1,0 +1,135 @@
+normal	acl	ACL reconstruction incision healing day 7
+normal	acl	ACL reconstruction incision healing 2 weeks sutures
+normal	acl	ACL reconstruction healed surgical scar
+normal	acl	ACL reconstruction stitches removed incision
+normal	acl	knee ACL surgery incision incision healing day 7
+normal	acl	knee ACL surgery incision incision healing 2 weeks sutures
+normal	acl	knee ACL surgery incision healed surgical scar
+normal	acl	knee ACL surgery incision stitches removed incision
+normal	rotator_cuff	rotator cuff repair incision healing day 7
+normal	rotator_cuff	rotator cuff repair incision healing 2 weeks sutures
+normal	rotator_cuff	rotator cuff repair healed surgical scar
+normal	rotator_cuff	rotator cuff repair stitches removed incision
+normal	rotator_cuff	shoulder arthroscopy incision healing day 7
+normal	rotator_cuff	shoulder arthroscopy incision healing 2 weeks sutures
+normal	rotator_cuff	shoulder arthroscopy healed surgical scar
+normal	rotator_cuff	shoulder arthroscopy stitches removed incision
+normal	meniscus	meniscus repair incision healing day 7
+normal	meniscus	meniscus repair incision healing 2 weeks sutures
+normal	meniscus	meniscus repair healed surgical scar
+normal	meniscus	meniscus repair stitches removed incision
+normal	meniscus	knee arthroscopy incision healing day 7
+normal	meniscus	knee arthroscopy incision healing 2 weeks sutures
+normal	meniscus	knee arthroscopy healed surgical scar
+normal	meniscus	knee arthroscopy stitches removed incision
+normal	labrum	shoulder labrum repair incision healing day 7
+normal	labrum	shoulder labrum repair incision healing 2 weeks sutures
+normal	labrum	shoulder labrum repair healed surgical scar
+normal	labrum	shoulder labrum repair stitches removed incision
+normal	labrum	shoulder stabilization surgery incision healing day 7
+normal	labrum	shoulder stabilization surgery incision healing 2 weeks sutures
+normal	labrum	shoulder stabilization surgery healed surgical scar
+normal	labrum	shoulder stabilization surgery stitches removed incision
+normal	achilles	Achilles tendon repair incision healing day 7
+normal	achilles	Achilles tendon repair incision healing 2 weeks sutures
+normal	achilles	Achilles tendon repair healed surgical scar
+normal	achilles	Achilles tendon repair stitches removed incision
+normal	achilles	Achilles tendon surgery incision healing day 7
+normal	achilles	Achilles tendon surgery incision healing 2 weeks sutures
+normal	achilles	Achilles tendon surgery healed surgical scar
+normal	achilles	Achilles tendon surgery stitches removed incision
+concerning	acl	ACL reconstruction incision redness swelling
+concerning	acl	ACL reconstruction incision mild infection
+concerning	acl	ACL reconstruction wound irritation around stitches
+concerning	acl	ACL reconstruction stitch abscess
+concerning	acl	knee ACL surgery incision incision redness swelling
+concerning	acl	knee ACL surgery incision incision mild infection
+concerning	acl	knee ACL surgery incision wound irritation around stitches
+concerning	acl	knee ACL surgery incision stitch abscess
+concerning	rotator_cuff	rotator cuff repair incision redness swelling
+concerning	rotator_cuff	rotator cuff repair incision mild infection
+concerning	rotator_cuff	rotator cuff repair wound irritation around stitches
+concerning	rotator_cuff	rotator cuff repair stitch abscess
+concerning	rotator_cuff	shoulder arthroscopy incision redness swelling
+concerning	rotator_cuff	shoulder arthroscopy incision mild infection
+concerning	rotator_cuff	shoulder arthroscopy wound irritation around stitches
+concerning	rotator_cuff	shoulder arthroscopy stitch abscess
+concerning	meniscus	meniscus repair incision redness swelling
+concerning	meniscus	meniscus repair incision mild infection
+concerning	meniscus	meniscus repair wound irritation around stitches
+concerning	meniscus	meniscus repair stitch abscess
+concerning	meniscus	knee arthroscopy incision redness swelling
+concerning	meniscus	knee arthroscopy incision mild infection
+concerning	meniscus	knee arthroscopy wound irritation around stitches
+concerning	meniscus	knee arthroscopy stitch abscess
+concerning	labrum	shoulder labrum repair incision redness swelling
+concerning	labrum	shoulder labrum repair incision mild infection
+concerning	labrum	shoulder labrum repair wound irritation around stitches
+concerning	labrum	shoulder labrum repair stitch abscess
+concerning	labrum	shoulder stabilization surgery incision redness swelling
+concerning	labrum	shoulder stabilization surgery incision mild infection
+concerning	labrum	shoulder stabilization surgery wound irritation around stitches
+concerning	labrum	shoulder stabilization surgery stitch abscess
+concerning	achilles	Achilles tendon repair incision redness swelling
+concerning	achilles	Achilles tendon repair incision mild infection
+concerning	achilles	Achilles tendon repair wound irritation around stitches
+concerning	achilles	Achilles tendon repair stitch abscess
+concerning	achilles	Achilles tendon surgery incision redness swelling
+concerning	achilles	Achilles tendon surgery incision mild infection
+concerning	achilles	Achilles tendon surgery wound irritation around stitches
+concerning	achilles	Achilles tendon surgery stitch abscess
+urgent	acl	ACL reconstruction surgical site infection
+urgent	acl	ACL reconstruction wound dehiscence
+urgent	acl	ACL reconstruction infected incision pus
+urgent	acl	ACL reconstruction wound necrosis after surgery
+urgent	acl	knee ACL surgery incision surgical site infection
+urgent	acl	knee ACL surgery incision wound dehiscence
+urgent	acl	knee ACL surgery incision infected incision pus
+urgent	acl	knee ACL surgery incision wound necrosis after surgery
+urgent	rotator_cuff	rotator cuff repair surgical site infection
+urgent	rotator_cuff	rotator cuff repair wound dehiscence
+urgent	rotator_cuff	rotator cuff repair infected incision pus
+urgent	rotator_cuff	rotator cuff repair wound necrosis after surgery
+urgent	rotator_cuff	shoulder arthroscopy surgical site infection
+urgent	rotator_cuff	shoulder arthroscopy wound dehiscence
+urgent	rotator_cuff	shoulder arthroscopy infected incision pus
+urgent	rotator_cuff	shoulder arthroscopy wound necrosis after surgery
+urgent	meniscus	meniscus repair surgical site infection
+urgent	meniscus	meniscus repair wound dehiscence
+urgent	meniscus	meniscus repair infected incision pus
+urgent	meniscus	meniscus repair wound necrosis after surgery
+urgent	meniscus	knee arthroscopy surgical site infection
+urgent	meniscus	knee arthroscopy wound dehiscence
+urgent	meniscus	knee arthroscopy infected incision pus
+urgent	meniscus	knee arthroscopy wound necrosis after surgery
+urgent	labrum	shoulder labrum repair surgical site infection
+urgent	labrum	shoulder labrum repair wound dehiscence
+urgent	labrum	shoulder labrum repair infected incision pus
+urgent	labrum	shoulder labrum repair wound necrosis after surgery
+urgent	labrum	shoulder stabilization surgery surgical site infection
+urgent	labrum	shoulder stabilization surgery wound dehiscence
+urgent	labrum	shoulder stabilization surgery infected incision pus
+urgent	labrum	shoulder stabilization surgery wound necrosis after surgery
+urgent	achilles	Achilles tendon repair surgical site infection
+urgent	achilles	Achilles tendon repair wound dehiscence
+urgent	achilles	Achilles tendon repair infected incision pus
+urgent	achilles	Achilles tendon repair wound necrosis after surgery
+urgent	achilles	Achilles tendon surgery surgical site infection
+urgent	achilles	Achilles tendon surgery wound dehiscence
+urgent	achilles	Achilles tendon surgery infected incision pus
+urgent	achilles	Achilles tendon surgery wound necrosis after surgery
+urgent	general	surgical site infection leg
+urgent	general	infected surgical wound
+urgent	general	postoperative wound infection
+urgent	general	wound dehiscence surgical incision
+urgent	general	cellulitis after surgery
+urgent	general	infected surgical incision pus
+urgent	general	surgical wound abscess
+urgent	general	deep surgical site infection extremity
+urgent	general	infected knee surgery wound
+urgent	general	infected ankle surgery wound
+urgent	general	infected shoulder surgery wound
+urgent	general	staph infection surgical wound
+urgent	general	dehisced incision lower leg
+urgent	general	surgical site infection dark skin
+urgent	general	infected surgical wound brown skin

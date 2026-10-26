@@ -1,0 +1,18 @@
+Images marked as not usable (diagrams, slides, no wound visible). Left out of labels.csv.
+You can delete these files from the dataset folder.
+dataset/train/normal/normal_train_0000.jpg
+dataset/train/normal/normal_train_0001.jpg
+dataset/train/normal/normal_train_0042.jpg
+dataset/train/normal/normal_train_0054.jpg
+dataset/train/normal/normal_train_0055.jpg
+dataset/train/normal/normal_train_0081.jpg
+dataset/train/normal/normal_train_0105.jpg
+dataset/train/normal/normal_train_0107.jpg
+dataset/val/normal/normal_val_0007.jpg
+dataset/val/normal/normal_val_0008.jpg
+dataset/val/normal/normal_val_0011.jpg
+dataset/val/normal/normal_val_0023.jpg
+dataset/test/needs_attention/needs_attention_test_0001.jpg
+dataset/test/needs_attention/needs_attention_test_0005.jpg
+dataset/test/normal/normal_test_0004.jpg
+dataset/test/normal/normal_test_0009.jpg

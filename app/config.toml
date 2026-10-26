@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#0D9488"
+backgroundColor = "#F3F6F6"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0B1412"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+# Lets a phone on the same Wi-Fi open the app (see PHONE_SETUP.md)
+address = "0.0.0.0"

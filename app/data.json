@@ -1,0 +1,496 @@
+{
+  "users": {
+    "demo.doctor@example.com": {
+      "role": "doctor",
+      "name": "Dr. Rivera",
+      "salt": "6b8f17c55587d64d5c7cde5a68631b4b",
+      "hash": "e5e19b4211e13aca0ec46dd1ba2ddd30b4e2e5789ea2a5ebb3a84268e86f30f3",
+      "fails": 0,
+      "locked_until": null,
+      "code": "DEMO42",
+      "clinic": "Demo Sports Medicine"
+    },
+    "demo.patient@example.com": {
+      "role": "patient",
+      "name": "Maya R.",
+      "salt": "a218dc8c03fbc0ce6253818856fb245d",
+      "hash": "c8f71a15f1691cecde41772612b27c37945023a23f8137ea760fbae88c86153c",
+      "fails": 0,
+      "locked_until": null,
+      "pid": "c0f50d9e"
+    }
+  },
+  "patients": {
+    "ca8db9b5": {
+      "name": "Jordan M.",
+      "surgery": "ACL reconstruction",
+      "surgery_date": "2026-10-11",
+      "doctor": "demo.doctor@example.com",
+      "owner": null,
+      "checkins": [
+        {
+          "day": 2,
+          "temp": 98.80000000000001,
+          "pain": 5,
+          "symptoms": {},
+          "date": "2026-10-13",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 3,
+          "temp": 98.4,
+          "pain": 5,
+          "symptoms": {},
+          "date": "2026-10-14",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 4,
+          "temp": 98.60000000000001,
+          "pain": 4,
+          "symptoms": {},
+          "date": "2026-10-15",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 5,
+          "temp": 98.80000000000001,
+          "pain": 4,
+          "symptoms": {},
+          "date": "2026-10-16",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 6,
+          "temp": 98.4,
+          "pain": 3,
+          "symptoms": {},
+          "date": "2026-10-17",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 7,
+          "temp": 98.60000000000001,
+          "pain": 3,
+          "symptoms": {},
+          "date": "2026-10-18",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 8,
+          "temp": 98.80000000000001,
+          "pain": 2,
+          "symptoms": {},
+          "date": "2026-10-19",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 9,
+          "temp": 98.4,
+          "pain": 2,
+          "symptoms": {},
+          "date": "2026-10-20",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 10,
+          "temp": 98.60000000000001,
+          "pain": 1,
+          "symptoms": {},
+          "date": "2026-10-21",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 11,
+          "temp": 98.80000000000001,
+          "pain": 1,
+          "symptoms": {},
+          "date": "2026-10-22",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 12,
+          "temp": 98.4,
+          "pain": 1,
+          "symptoms": {},
+          "date": "2026-10-23",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        }
+      ],
+      "demo": true
+    },
+    "c0f50d9e": {
+      "name": "Maya R.",
+      "surgery": "Achilles tendon repair",
+      "surgery_date": "2026-10-13",
+      "doctor": "demo.doctor@example.com",
+      "owner": "demo.patient@example.com",
+      "checkins": [
+        {
+          "day": 2,
+          "temp": 98.6,
+          "pain": 4,
+          "symptoms": {},
+          "date": "2026-10-15",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 3,
+          "temp": 98.6,
+          "pain": 4,
+          "symptoms": {},
+          "date": "2026-10-16",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 4,
+          "temp": 98.6,
+          "pain": 4,
+          "symptoms": {},
+          "date": "2026-10-17",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 5,
+          "temp": 98.6,
+          "pain": 4,
+          "symptoms": {},
+          "date": "2026-10-18",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 6,
+          "temp": 98.6,
+          "pain": 4,
+          "symptoms": {},
+          "date": "2026-10-19",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 7,
+          "temp": 99.0,
+          "pain": 4,
+          "symptoms": {
+            "redness": true
+          },
+          "date": "2026-10-20",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "yellow",
+          "reasons": [
+            "Mild redness right at the incision edge"
+          ],
+          "emergency": false
+        },
+        {
+          "day": 8,
+          "temp": 99.4,
+          "pain": 5,
+          "symptoms": {
+            "redness": true,
+            "warm": true
+          },
+          "date": "2026-10-21",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "yellow",
+          "reasons": [
+            "Mild redness right at the incision edge",
+            "Skin around the incision feels warm"
+          ],
+          "emergency": false
+        },
+        {
+          "day": 9,
+          "temp": 99.8,
+          "pain": 6,
+          "symptoms": {
+            "redness": true,
+            "swelling": true,
+            "warm": true
+          },
+          "date": "2026-10-22",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "yellow",
+          "reasons": [
+            "Mild redness right at the incision edge",
+            "Swelling is increasing",
+            "Skin around the incision feels warm",
+            "Elevated pain (6/10)"
+          ],
+          "emergency": false
+        },
+        {
+          "day": 10,
+          "temp": 100.2,
+          "pain": 6,
+          "symptoms": {
+            "redness": true,
+            "swelling": true,
+            "warm": true,
+            "clear": true
+          },
+          "date": "2026-10-23",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "yellow",
+          "reasons": [
+            "Mild redness right at the incision edge",
+            "Swelling is increasing",
+            "Skin around the incision feels warm",
+            "Small amount of clear or pink drainage",
+            "Low-grade temperature of 100.2 F",
+            "Elevated pain (6/10)"
+          ],
+          "emergency": false
+        }
+      ],
+      "demo": true,
+      "messages": [
+        {
+          "from": "doctor",
+          "text": "Hi Maya, how does the incision look today? Send a photo in your check-in.",
+          "time": "2026-10-23T22:43:50",
+          "read": true
+        },
+        {
+          "from": "patient",
+          "text": "Sounds good, Dr. Rivera! Will make sure to include one today.",
+          "time": "2026-10-25T15:13:26",
+          "read": false
+        }
+      ]
+    },
+    "508edf89": {
+      "name": "Chris T.",
+      "surgery": "Rotator cuff repair",
+      "surgery_date": "2026-10-14",
+      "doctor": "demo.doctor@example.com",
+      "owner": null,
+      "checkins": [
+        {
+          "day": 2,
+          "temp": 98.6,
+          "pain": 3,
+          "symptoms": {},
+          "date": "2026-10-16",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 3,
+          "temp": 98.6,
+          "pain": 3,
+          "symptoms": {},
+          "date": "2026-10-17",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 4,
+          "temp": 98.6,
+          "pain": 3,
+          "symptoms": {},
+          "date": "2026-10-18",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 5,
+          "temp": 98.6,
+          "pain": 3,
+          "symptoms": {},
+          "date": "2026-10-19",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 6,
+          "temp": 98.6,
+          "pain": 3,
+          "symptoms": {},
+          "date": "2026-10-20",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "green",
+          "reasons": [],
+          "emergency": false
+        },
+        {
+          "day": 7,
+          "temp": 99.5,
+          "pain": 4,
+          "symptoms": {
+            "redness": true
+          },
+          "date": "2026-10-21",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "yellow",
+          "reasons": [
+            "Mild redness right at the incision edge"
+          ],
+          "emergency": false
+        },
+        {
+          "day": 8,
+          "temp": 100.4,
+          "pain": 5,
+          "symptoms": {
+            "redness": true,
+            "swelling": true
+          },
+          "date": "2026-10-22",
+          "notes": "",
+          "photo": null,
+          "reviewed": false,
+          "tier": "yellow",
+          "reasons": [
+            "Mild redness right at the incision edge",
+            "Swelling is increasing",
+            "Low-grade temperature of 100.4 F"
+          ],
+          "emergency": false
+        },
+        {
+          "day": 9,
+          "temp": 101.6,
+          "pain": 8,
+          "symptoms": {
+            "spreading": true,
+            "pus": true,
+            "warm": true,
+            "swelling": true
+          },
+          "date": "2026-10-23",
+          "notes": "",
+          "photo": null,
+          "reviewed": true,
+          "tier": "red",
+          "reasons": [
+            "Pus or thick yellow/green or foul-smelling drainage",
+            "Redness is spreading away from the incision",
+            "Fever of 101.6 F",
+            "Severe pain (8/10)",
+            "Swelling is increasing",
+            "Skin around the incision feels warm",
+            "Pain jumped 3+ points since the last check-in"
+          ],
+          "emergency": false
+        }
+      ],
+      "demo": true,
+      "messages": [
+        {
+          "from": "doctor",
+          "text": "Please come in for a visit today, I have an available slot at 3pm.",
+          "time": "2026-10-23T22:43:58",
+          "read": false
+        }
+      ]
+    }
+  }
+}

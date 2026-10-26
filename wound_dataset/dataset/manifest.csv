@@ -1,0 +1,225 @@
+file,class,split,original_path,phash
+dataset\train\needs_attention\needs_attention_train_0000.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (38).jpg,e0a0cc849f997f4d
+dataset\train\needs_attention\needs_attention_train_0001.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (31).jpg,e3ad84bcdc3ac3a0
+dataset\train\needs_attention\needs_attention_train_0002.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (57).jpg,da49844ea5b1b6ad
+dataset\train\needs_attention\needs_attention_train_0003.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (2).jpg,ef1fd1bc23e01605
+dataset\train\needs_attention\needs_attention_train_0004.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (24).jpg,d43f4100caef939d
+dataset\train\needs_attention\needs_attention_train_0005.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (29).jpg,95d6692bfa39a860
+dataset\train\needs_attention\needs_attention_train_0006.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (6).jpg,bb79ccd614585949
+dataset\train\needs_attention\needs_attention_train_0007.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images(1).jpg,900f0f38dcc333ee
+dataset\train\needs_attention\needs_attention_train_0008.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (42).jpg,c383fb0afa0f04f8
+dataset\train\needs_attention\needs_attention_train_0009.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (28).jpg,cfc3e9da30da20d2
+dataset\train\needs_attention\needs_attention_train_0010.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (18).jpg,f7af80555c2ae055
+dataset\train\needs_attention\needs_attention_train_0011.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (40).jpg,eadd00b562d027fa
+dataset\train\needs_attention\needs_attention_train_0012.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (48).jpg,ad1f74de52588a29
+dataset\train\needs_attention\needs_attention_train_0013.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (51).jpg,a64ed9266326334f
+dataset\train\needs_attention\needs_attention_train_0014.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (37).jpg,d0dfc94bc948ad49
+dataset\train\needs_attention\needs_attention_train_0015.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images.jpg,afded4c4d091d831
+dataset\train\needs_attention\needs_attention_train_0016.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (12).jpg,b9d93ab06968da8c
+dataset\train\needs_attention\needs_attention_train_0017.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (3).jpg,af90f464d3d09ac3
+dataset\train\needs_attention\needs_attention_train_0018.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (53).jpg,d4d37924a4b55656
+dataset\train\needs_attention\needs_attention_train_0019.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (13).jpg,fde141656d2531b1
+dataset\train\needs_attention\needs_attention_train_0020.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (36).jpg,995b4ba935554ea8
+dataset\train\needs_attention\needs_attention_train_0021.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (19).jpg,bff44d8490b681ec
+dataset\train\needs_attention\needs_attention_train_0022.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (49).jpg,cc8c5cd3b6e34a4c
+dataset\train\needs_attention\needs_attention_train_0023.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (30).jpg,8979d27d645112fa
+dataset\train\needs_attention\needs_attention_train_0024.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (45).jpg,ce0b6927264a327f
+dataset\train\needs_attention\needs_attention_train_0025.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (32).jpg,bbefcc21cc30c632
+dataset\train\needs_attention\needs_attention_train_0026.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (1).jpg,e0318524fb546fb5
+dataset\train\needs_attention\needs_attention_train_0027.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (33).jpg,c8f1ce30989b6e6c
+dataset\train\needs_attention\needs_attention_train_0028.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (55).jpg,d05f08eb3574e6a8
+dataset\train\needs_attention\needs_attention_train_0029.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (27).jpg,f455d59a2a7a9419
+dataset\train\needs_attention\needs_attention_train_0030.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (39).jpg,b4c9d274620faa5d
+dataset\train\needs_attention\needs_attention_train_0031.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (43).jpg,e1c07399193e8cd7
+dataset\train\needs_attention\needs_attention_train_0032.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (34).jpg,d57d4c2531b0bea2
+dataset\train\needs_attention\needs_attention_train_0033.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (20).jpg,8ed493bb64a40e9d
+dataset\train\needs_attention\needs_attention_train_0034.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (46).jpg,d3d56e3e2830374c
+dataset\train\needs_attention\needs_attention_train_0035.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (4).jpg,eb439518a5b53d94
+dataset\train\needs_attention\needs_attention_train_0036.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (56).jpg,ad487133f183b897
+dataset\train\needs_attention\needs_attention_train_0037.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (21).jpg,95fc01acd794688f
+dataset\train\needs_attention\needs_attention_train_0038.jpg,needs_attention,train,raw\needs_attention\manual - sorted\images (52).jpg,faeac9a0c09f91d1
+dataset\val\needs_attention\needs_attention_val_0000.jpg,needs_attention,val,raw\needs_attention\manual - sorted\images (8).jpg,cb4e9198b7a1992b
+dataset\val\needs_attention\needs_attention_val_0001.jpg,needs_attention,val,raw\needs_attention\manual - sorted\images (11).jpg,be170df9275c110b
+dataset\val\needs_attention\needs_attention_val_0002.jpg,needs_attention,val,raw\needs_attention\manual - sorted\images (35).jpg,a6c115a42d2b5e5f
+dataset\val\needs_attention\needs_attention_val_0003.jpg,needs_attention,val,raw\needs_attention\manual - sorted\images (44).jpg,f4cdc82db02df845
+dataset\val\needs_attention\needs_attention_val_0004.jpg,needs_attention,val,raw\needs_attention\manual - sorted\images (14).jpg,90e4d7bbcca42a72
+dataset\val\needs_attention\needs_attention_val_0005.jpg,needs_attention,val,raw\needs_attention\manual - sorted\images (41).jpg,b9474664cdb5e642
+dataset\val\needs_attention\needs_attention_val_0006.jpg,needs_attention,val,raw\needs_attention\manual - sorted\images (5).jpg,fa93c9658ca1b18d
+dataset\val\needs_attention\needs_attention_val_0007.jpg,needs_attention,val,raw\needs_attention\manual - sorted\images (15).jpg,931445564fbb6aca
+dataset\test\needs_attention\needs_attention_test_0000.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (7).jpg,bb18e0c3b85752e5
+dataset\test\needs_attention\needs_attention_test_0001.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (17).jpg,eab4b3b9803364da
+dataset\test\needs_attention\needs_attention_test_0002.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (22).jpg,a4da2f4fc8b4d321
+dataset\test\needs_attention\needs_attention_test_0003.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (23).jpg,b1f32f31b2059c4e
+dataset\test\needs_attention\needs_attention_test_0004.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (25).jpg,b9d4d46ad4cd26d0
+dataset\test\needs_attention\needs_attention_test_0005.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (54).jpg,c611a3e4e69195af
+dataset\test\needs_attention\needs_attention_test_0006.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (10).jpg,c09100376a9f7ff8
+dataset\test\needs_attention\needs_attention_test_0007.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (16).jpg,97a168da8dec38cc
+dataset\test\needs_attention\needs_attention_test_0008.jpg,needs_attention,test,raw\needs_attention\manual - sorted\images (47).jpg,fec9148355954b96
+dataset\train\normal\normal_train_0000.jpg,normal,train,raw\normal\acl - sorted\000081.jpg,c8d3737323236666
+dataset\train\normal\normal_train_0001.jpg,normal,train,raw\normal\acl - sorted\000088.jpg,caf3a37920c1bc36
+dataset\train\normal\normal_train_0002.jpg,normal,train,raw\normal\acl - sorted\000075.jpg,bcf270c70f3c6071
+dataset\train\normal\normal_train_0003.jpg,normal,train,raw\normal\meniscus - sorted\000253.jpg,c8d605a919cd33ed
+dataset\train\normal\normal_train_0004.jpg,normal,train,raw\normal\labrum -sorted\000335.jpg,8ae66c88b9b5b076
+dataset\train\normal\normal_train_0005.jpg,normal,train,raw\normal\meniscus - sorted\000228.jpg,d6fc00c3ff0101fd
+dataset\train\normal\normal_train_0006.jpg,normal,train,raw\normal\meniscus - sorted\000269.jpg,e2839f68e8adcd50
+dataset\train\normal\normal_train_0007.jpg,normal,train,raw\normal\meniscus - sorted\000083.jpg,c843b758a658b759
+dataset\train\normal\normal_train_0008.jpg,normal,train,raw\normal\labrum -sorted\000257.jpg,ecc3b872a469d4a9
+dataset\train\normal\normal_train_0009.jpg,normal,train,raw\normal\meniscus - sorted\000123.jpg,db4e217d7c243872
+dataset\train\normal\normal_train_0010.jpg,normal,train,raw\normal\meniscus - sorted\000095.jpg,968520ff4d8a2ad7
+dataset\train\normal\normal_train_0011.jpg,normal,train,raw\normal\rotator_cuff\000245.jpg,f5c699989871a476
+dataset\train\normal\normal_train_0012.jpg,normal,train,raw\normal\meniscus - sorted\000156.jpg,9f776568109a9ac6
+dataset\train\normal\normal_train_0013.jpg,normal,train,raw\normal\rotator_cuff\000013.jpg,caf06c85b6cab28d
+dataset\train\normal\normal_train_0014.jpg,normal,train,raw\normal\acl - sorted\000042.jpg,f6bec75358435150
+dataset\train\normal\normal_train_0015.jpg,normal,train,raw\normal\meniscus - sorted\000238.jpg,87e1381bf1716317
+dataset\train\normal\normal_train_0016.jpg,normal,train,raw\normal\acl - sorted\000223.jpg,94e5454b1f9d7885
+dataset\train\normal\normal_train_0017.jpg,normal,train,raw\normal\meniscus - sorted\000126.jpg,d580a182a366df77
+dataset\train\normal\normal_train_0018.jpg,normal,train,raw\normal\achilles - sorted\000003.jpg,cf891e8b66925b92
+dataset\train\normal\normal_train_0019.jpg,normal,train,raw\normal\acl - sorted\000031.jpg,cf3c701e34e94e31
+dataset\train\normal\normal_train_0020.jpg,normal,train,raw\normal\acl - sorted\000169.jpg,adf2d90cc68d383c
+dataset\train\normal\normal_train_0021.jpg,normal,train,raw\normal\rotator_cuff\000077.jpg,9f6b27960309c5d6
+dataset\train\normal\normal_train_0022.jpg,normal,train,raw\normal\acl - sorted\000017.jpg,fd5e2a7520b3038e
+dataset\train\normal\normal_train_0023.jpg,normal,train,raw\normal\labrum -sorted\000099.jpg,dfd940139eb23293
+dataset\train\normal\normal_train_0024.jpg,normal,train,raw\normal\labrum -sorted\000179.jpg,fff040c3c3c3c643
+dataset\train\normal\normal_train_0025.jpg,normal,train,raw\normal\meniscus - sorted\000030.jpg,a52dceca40c955fc
+dataset\train\normal\normal_train_0026.jpg,normal,train,raw\normal\labrum -sorted\000263.jpg,c6d92de62ba8a8aa
+dataset\train\normal\normal_train_0027.jpg,normal,train,raw\normal\acl - sorted\000004.jpg,804b7d2a2a7d3575
+dataset\train\normal\normal_train_0028.jpg,normal,train,raw\normal\labrum -sorted\000182.jpg,d4840f9f3efe28c0
+dataset\train\normal\normal_train_0029.jpg,normal,train,raw\normal\achilles - sorted\000060.jpg,eca72e4a3b40db70
+dataset\train\normal\normal_train_0030.jpg,normal,train,raw\normal\labrum -sorted\000227.jpg,821f7e9428acfab4
+dataset\train\normal\normal_train_0031.jpg,normal,train,raw\normal\achilles - sorted\000075.jpg,f39e5362845be087
+dataset\train\normal\normal_train_0032.jpg,normal,train,raw\normal\labrum -sorted\000217.jpg,fefcc0c0c11f3f10
+dataset\train\normal\normal_train_0033.jpg,normal,train,raw\normal\acl - sorted\000032.jpg,844c6a011fdcdfda
+dataset\train\normal\normal_train_0034.jpg,normal,train,raw\normal\meniscus - sorted\000167.jpg,cb42455b53573167
+dataset\train\normal\normal_train_0035.jpg,normal,train,raw\normal\meniscus - sorted\000249.jpg,86a5f23542353bb9
+dataset\train\normal\normal_train_0036.jpg,normal,train,raw\normal\acl - sorted\000235.jpg,9d1a6724e43b33e8
+dataset\train\normal\normal_train_0037.jpg,normal,train,raw\normal\acl - sorted\000065.jpg,d2e42cca6cce64da
+dataset\train\normal\normal_train_0038.jpg,normal,train,raw\normal\acl - sorted\000048.jpg,d4e54c19d91bf216
+dataset\train\normal\normal_train_0039.jpg,normal,train,raw\normal\acl - sorted\000077.jpg,d265ee4e644ea45a
+dataset\train\normal\normal_train_0040.jpg,normal,train,raw\normal\labrum -sorted\000272.jpg,d2594929696b4b6b
+dataset\train\normal\normal_train_0041.jpg,normal,train,raw\normal\acl - sorted\000234.jpg,c1ad3c3b3b49668c
+dataset\train\normal\normal_train_0042.jpg,normal,train,raw\normal\achilles - sorted\000020.jpg,f3cda05ca2c55c1e
+dataset\train\normal\normal_train_0043.jpg,normal,train,raw\normal\rotator_cuff\000260.jpg,d6555b9552725256
+dataset\train\normal\normal_train_0044.jpg,normal,train,raw\normal\acl - sorted\000128.jpg,c2c09481fcde7ad6
+dataset\train\normal\normal_train_0045.jpg,normal,train,raw\normal\achilles - sorted\000053.jpg,cbc078da749f268c
+dataset\train\normal\normal_train_0046.jpg,normal,train,raw\normal\acl - sorted\000071.jpg,879f60c07c405ff5
+dataset\train\normal\normal_train_0047.jpg,normal,train,raw\normal\rotator_cuff\000250.jpg,c198c69594979cdb
+dataset\train\normal\normal_train_0048.jpg,normal,train,raw\normal\achilles - sorted\000007.jpg,82bd160665eedd2c
+dataset\train\normal\normal_train_0049.jpg,normal,train,raw\normal\achilles - sorted\000164.jpg,a8ac4fc03f8740bf
+dataset\train\normal\normal_train_0050.jpg,normal,train,raw\normal\acl - sorted\000255.jpg,c803fbf0c0ff1722
+dataset\train\normal\normal_train_0051.jpg,normal,train,raw\normal\acl - sorted\000013.jpg,e92452afaf143a5a
+dataset\train\normal\normal_train_0052.jpg,normal,train,raw\normal\achilles - sorted\000056.jpg,8d6b621e72c65e58
+dataset\train\normal\normal_train_0053.jpg,normal,train,raw\normal\meniscus - sorted\000240.jpg,f30218f5fa0315fa
+dataset\train\normal\normal_train_0054.jpg,normal,train,raw\normal\rotator_cuff\000267.jpg,801f7c78706173bb
+dataset\train\normal\normal_train_0055.jpg,normal,train,raw\normal\labrum -sorted\000059.jpg,c0c10faa1f3d3e3c
+dataset\train\normal\normal_train_0056.jpg,normal,train,raw\normal\labrum -sorted\000261.jpg,9e72332665cea6c4
+dataset\train\normal\normal_train_0057.jpg,normal,train,raw\normal\labrum -sorted\000023.jpg,acc001d35f5b5bc3
+dataset\train\normal\normal_train_0058.jpg,normal,train,raw\normal\labrum -sorted\000011.jpg,a5b4333119ccce6e
+dataset\train\normal\normal_train_0059.jpg,normal,train,raw\normal\rotator_cuff\000247.jpg,edd712d639833096
+dataset\train\normal\normal_train_0060.jpg,normal,train,raw\normal\labrum -sorted\000346.jpg,9a7253f3662c650d
+dataset\train\normal\normal_train_0061.jpg,normal,train,raw\normal\achilles - sorted\000061.jpg,cb04107ab56bb54f
+dataset\train\normal\normal_train_0062.jpg,normal,train,raw\normal\labrum -sorted\000264.jpg,a62e2e2e702e2d5b
+dataset\train\normal\normal_train_0063.jpg,normal,train,raw\normal\acl - sorted\000142.jpg,e4d472732aea4b43
+dataset\train\normal\normal_train_0064.jpg,normal,train,raw\normal\meniscus - sorted\000294.jpg,f5c48b723c15924f
+dataset\train\normal\normal_train_0065.jpg,normal,train,raw\normal\rotator_cuff\000275.jpg,ed9292999b92b634
+dataset\train\normal\normal_train_0066.jpg,normal,train,raw\normal\meniscus - sorted\000277.jpg,cfcd30c638c738c3
+dataset\train\normal\normal_train_0067.jpg,normal,train,raw\normal\acl - sorted\000074.jpg,9b33674e666c6838
+dataset\train\normal\normal_train_0068.jpg,normal,train,raw\normal\achilles - sorted\000128.jpg,dd623d49b0a54a7c
+dataset\train\normal\normal_train_0069.jpg,normal,train,raw\normal\meniscus - sorted\000217.jpg,9b0fa302e41eed1b
+dataset\train\normal\normal_train_0070.jpg,normal,train,raw\normal\acl - sorted\000009.jpg,859baa74fee10855
+dataset\train\normal\normal_train_0071.jpg,normal,train,raw\normal\acl - sorted\000238.jpg,e5c53372e52de016
+dataset\train\normal\normal_train_0072.jpg,normal,train,raw\normal\meniscus - sorted\000210.jpg,9d5ff358a218e219
+dataset\train\normal\normal_train_0073.jpg,normal,train,raw\normal\achilles - sorted\000001.jpg,93483d74063bdbcc
+dataset\train\normal\normal_train_0074.jpg,normal,train,raw\normal\meniscus - sorted\000229.jpg,8bb4b561e52df441
+dataset\train\normal\normal_train_0075.jpg,normal,train,raw\normal\meniscus - sorted\000206.jpg,83984cd7a2ab395d
+dataset\train\normal\normal_train_0076.jpg,normal,train,raw\normal\acl - sorted\000219.jpg,c2cc647ae55bb138
+dataset\train\normal\normal_train_0077.jpg,normal,train,raw\normal\acl - sorted\000072.jpg,9bb270e8cea24abc
+dataset\train\normal\normal_train_0078.jpg,normal,train,raw\normal\meniscus - sorted\000234.jpg,afb64960f4c94f88
+dataset\train\normal\normal_train_0079.jpg,normal,train,raw\normal\rotator_cuff\000152.jpg,81d5078b155ee739
+dataset\train\normal\normal_train_0080.jpg,normal,train,raw\normal\acl - sorted\000063.jpg,bcf469e5517041d5
+dataset\train\normal\normal_train_0081.jpg,normal,train,raw\normal\meniscus - sorted\000237.jpg,b90f8f30393a38e3
+dataset\train\normal\normal_train_0082.jpg,normal,train,raw\normal\labrum -sorted\000333.jpg,d5c53da121ce5a93
+dataset\train\normal\normal_train_0083.jpg,normal,train,raw\normal\achilles - sorted\000002.jpg,e8f81f3c533a11a9
+dataset\train\normal\normal_train_0084.jpg,normal,train,raw\normal\acl - sorted\000271.jpg,bfb564c944d940e9
+dataset\train\normal\normal_train_0085.jpg,normal,train,raw\normal\acl - sorted\000061.jpg,f4441d7f2e8c2b25
+dataset\train\normal\normal_train_0086.jpg,normal,train,raw\normal\acl - sorted\000265.jpg,860c0ef7fbc1260f
+dataset\train\normal\normal_train_0087.jpg,normal,train,raw\normal\rotator_cuff\000276.jpg,a18221271f9be4f7
+dataset\train\normal\normal_train_0088.png,normal,train,raw\normal\rotator_cuff\Screenshot 2026-10-15 212102.png,d58a15132a7f15ab
+dataset\train\normal\normal_train_0089.jpg,normal,train,raw\normal\acl - sorted\000145.jpg,e569d666c626c266
+dataset\train\normal\normal_train_0090.png,normal,train,raw\normal\rotator_cuff\Screenshot 2026-10-15 212013.png,80d00f6a3d2d3e3f
+dataset\train\normal\normal_train_0091.jpg,normal,train,raw\normal\meniscus - sorted\000257.jpg,d035da526d5b94d4
+dataset\train\normal\normal_train_0092.jpg,normal,train,raw\normal\labrum -sorted\000085.jpg,918597c843636db7
+dataset\train\normal\normal_train_0093.jpg,normal,train,raw\normal\meniscus - sorted\000197.jpg,bb843b8f1d87a584
+dataset\train\normal\normal_train_0094.jpg,normal,train,raw\normal\labrum -sorted\000262.jpg,b2d2279ad81133e7
+dataset\train\normal\normal_train_0095.png,normal,train,raw\normal\rotator_cuff\Screenshot 2026-10-15 212120.png,f7cb6824061bcbe2
+dataset\train\normal\normal_train_0096.jpg,normal,train,raw\normal\meniscus - sorted\000243.jpg,c47c1ba3d393543c
+dataset\train\normal\normal_train_0097.jpg,normal,train,raw\normal\achilles - sorted\000199.jpg,c3b1bc8eb96b484a
+dataset\train\normal\normal_train_0098.jpg,normal,train,raw\normal\rotator_cuff\000091.jpg,9d9fdeca6b113810
+dataset\train\normal\normal_train_0099.jpg,normal,train,raw\normal\achilles - sorted\000054.jpg,93f58c621cf1663c
+dataset\train\normal\normal_train_0100.jpg,normal,train,raw\normal\labrum -sorted\000328.jpg,ad95568a5b8b5989
+dataset\train\normal\normal_train_0101.png,normal,train,raw\normal\rotator_cuff\Screenshot 2026-10-15 211737.png,f7da692c161e1b09
+dataset\train\normal\normal_train_0102.jpg,normal,train,raw\normal\meniscus - sorted\000239.jpg,ad83e13d0e9ada0b
+dataset\train\normal\normal_train_0103.jpg,normal,train,raw\normal\acl - sorted\000242.jpg,950f22e962fa0bcd
+dataset\train\normal\normal_train_0104.jpg,normal,train,raw\normal\meniscus - sorted\000235.jpg,cba9b4b20363b768
+dataset\train\normal\normal_train_0105.jpg,normal,train,raw\normal\acl - sorted\000038.jpg,e6deb810bea125aa
+dataset\train\normal\normal_train_0106.jpg,normal,train,raw\normal\acl - sorted\000141.jpg,c8562d281d173e6f
+dataset\train\normal\normal_train_0107.jpg,normal,train,raw\normal\acl - sorted\000166.jpg,9fc9f062e036f036
+dataset\train\normal\normal_train_0108.jpg,normal,train,raw\normal\meniscus - sorted\000204.jpg,9de09c9cea97e380
+dataset\train\normal\normal_train_0109.jpg,normal,train,raw\normal\meniscus - sorted\000241.jpg,fba7e690a584c3c1
+dataset\train\normal\normal_train_0110.jpg,normal,train,raw\normal\rotator_cuff\000281.jpg,f8c34e5c98b8b1a3
+dataset\train\normal\normal_train_0111.jpg,normal,train,raw\normal\meniscus - sorted\000218.jpg,c59f4bcaa2a6868d
+dataset\train\normal\normal_train_0112.jpg,normal,train,raw\normal\rotator_cuff\000001.jpg,bff860c101075f4f
+dataset\train\normal\normal_train_0113.jpg,normal,train,raw\normal\meniscus - sorted\000250.jpg,8141e2d1ec7e7a47
+dataset\train\normal\normal_train_0114.jpg,normal,train,raw\normal\rotator_cuff\000268.jpg,f4c8068fff85070e
+dataset\train\normal\normal_train_0115.jpg,normal,train,raw\normal\labrum -sorted\000284.jpg,bbb1f064ea20e03f
+dataset\train\normal\normal_train_0116.jpg,normal,train,raw\normal\acl - sorted\000060.jpg,c2f0959751a8adb5
+dataset\val\normal\normal_val_0000.png,normal,val,raw\normal\rotator_cuff\Screenshot 2026-10-15 211836.png,80c02fa03f97f43f
+dataset\val\normal\normal_val_0001.jpg,normal,val,raw\normal\acl - sorted\000062.jpg,fe85413c0f72a3f0
+dataset\val\normal\normal_val_0002.jpg,normal,val,raw\normal\rotator_cuff\000242.jpg,dd50c6d7cd8b4c48
+dataset\val\normal\normal_val_0003.jpg,normal,val,raw\normal\meniscus - sorted\000259.jpg,c856a528994db36f
+dataset\val\normal\normal_val_0004.jpg,normal,val,raw\normal\labrum -sorted\000218.jpg,9554de6232cdc633
+dataset\val\normal\normal_val_0005.jpg,normal,val,raw\normal\meniscus - sorted\000221.jpg,cf3c603f3093ccc9
+dataset\val\normal\normal_val_0006.jpg,normal,val,raw\normal\meniscus - sorted\000216.jpg,cbd654e525c952ca
+dataset\val\normal\normal_val_0007.jpg,normal,val,raw\normal\acl - sorted\000157.jpg,92854f729d72e60d
+dataset\val\normal\normal_val_0008.jpg,normal,val,raw\normal\acl - sorted\000237.jpg,d9d0a58f6b50d25c
+dataset\val\normal\normal_val_0009.jpg,normal,val,raw\normal\meniscus - sorted\000267.jpg,e9ca86659669946d
+dataset\val\normal\normal_val_0010.jpg,normal,val,raw\normal\meniscus - sorted\000245.jpg,97a992579d872a86
+dataset\val\normal\normal_val_0011.jpg,normal,val,raw\normal\meniscus - sorted\000254.jpg,f8edc353415443b5
+dataset\val\normal\normal_val_0012.jpg,normal,val,raw\normal\acl - sorted\000216.jpg,86a08a9099df9d9f
+dataset\val\normal\normal_val_0013.jpg,normal,val,raw\normal\achilles - sorted\000167.jpg,b3079c39a72e8b0e
+dataset\val\normal\normal_val_0014.png,normal,val,raw\normal\rotator_cuff\Screenshot 2026-10-15 212044.png,82ab31bfc6c6961a
+dataset\val\normal\normal_val_0015.jpg,normal,val,raw\normal\meniscus - sorted\000033.jpg,f250d904c7e1dcf1
+dataset\val\normal\normal_val_0016.jpg,normal,val,raw\normal\labrum -sorted\000198.jpg,800fde3246996e77
+dataset\val\normal\normal_val_0017.jpg,normal,val,raw\normal\achilles - sorted\000059.jpg,be36e65ea550a918
+dataset\val\normal\normal_val_0018.png,normal,val,raw\normal\rotator_cuff\Screenshot 2026-10-15 212140.png,ed471e3b2450237d
+dataset\val\normal\normal_val_0019.jpg,normal,val,raw\normal\achilles - sorted\000151.jpg,e2b9b488726cc99e
+dataset\val\normal\normal_val_0020.jpg,normal,val,raw\normal\labrum -sorted\000221.jpg,d410537a68c76f59
+dataset\val\normal\normal_val_0021.jpg,normal,val,raw\normal\acl - sorted\000220.jpg,82b6a97a2e53b455
+dataset\val\normal\normal_val_0022.jpg,normal,val,raw\normal\acl - sorted\000267.jpg,9bc43b0855eea4ba
+dataset\val\normal\normal_val_0023.jpg,normal,val,raw\normal\rotator_cuff\000274.jpg,dec532fae1c4c185
+dataset\val\normal\normal_val_0024.jpg,normal,val,raw\normal\meniscus - sorted\000225.jpg,90cd6a6a2f257535
+dataset\test\normal\normal_test_0000.jpg,normal,test,raw\normal\rotator_cuff\000251.jpg,97dc5b03e8ad06ac
+dataset\test\normal\normal_test_0001.jpg,normal,test,raw\normal\acl - sorted\000236.jpg,a1463de247de9839
+dataset\test\normal\normal_test_0002.jpg,normal,test,raw\normal\meniscus - sorted\000265.jpg,f5cd0bf23495128e
+dataset\test\normal\normal_test_0003.jpg,normal,test,raw\normal\acl - sorted\000087.jpg,99ea65337bf18a04
+dataset\test\normal\normal_test_0004.jpg,normal,test,raw\normal\achilles - sorted\000195.jpg,d0cb7b82a70c9979
+dataset\test\normal\normal_test_0005.jpg,normal,test,raw\normal\acl - sorted\000266.jpg,928569826dda639f
+dataset\test\normal\normal_test_0006.jpg,normal,test,raw\normal\acl - sorted\000212.jpg,fb83e6c49087c58e
+dataset\test\normal\normal_test_0007.jpg,normal,test,raw\normal\labrum -sorted\000266.jpg,e6c60bbc39818f9c
+dataset\test\normal\normal_test_0008.jpg,normal,test,raw\normal\labrum -sorted\000279.jpg,8b8d96324bcdc98d
+dataset\test\normal\normal_test_0009.jpg,normal,test,raw\normal\acl - sorted\000080.jpg,c38d340a4b4faeba
+dataset\test\normal\normal_test_0010.jpg,normal,test,raw\normal\labrum -sorted\000276.jpg,f1c6189918f134f7
+dataset\test\normal\normal_test_0011.jpg,normal,test,raw\normal\meniscus - sorted\000219.jpg,cbd244d374c57e81
+dataset\test\normal\normal_test_0012.jpg,normal,test,raw\normal\acl - sorted\000275.jpg,ce1e3ca8a6ad3296
+dataset\test\normal\normal_test_0013.jpg,normal,test,raw\normal\labrum -sorted\000330.jpg,9085189b76877d8f
+dataset\test\normal\normal_test_0014.jpg,normal,test,raw\normal\acl - sorted\000018.jpg,924d5ec229ff7812
+dataset\test\normal\normal_test_0015.jpg,normal,test,raw\normal\acl - sorted\000228.jpg,81c162f65da678d6
+dataset\test\normal\normal_test_0016.jpg,normal,test,raw\normal\achilles - sorted\000222.jpg,93b93868bc9c6587
+dataset\test\normal\normal_test_0017.jpg,normal,test,raw\normal\labrum -sorted\000031.jpg,fea5b838f532a150
+dataset\test\normal\normal_test_0018.jpg,normal,test,raw\normal\acl - sorted\000224.jpg,cce8d3c76e6d8032
+dataset\test\normal\normal_test_0019.jpg,normal,test,raw\normal\achilles - sorted\000071.jpg,f8e84b9b6286728e
+dataset\test\normal\normal_test_0020.jpg,normal,test,raw\normal\achilles - sorted\000193.jpg,d5a9e2169cf823c3
+dataset\test\normal\normal_test_0021.jpg,normal,test,raw\normal\acl - sorted\000150.jpg,c33f68067f302f34
+dataset\test\normal\normal_test_0022.jpg,normal,test,raw\normal\rotator_cuff\000244.jpg,cd9aaa9aac8a8da9
+dataset\test\normal\normal_test_0023.jpg,normal,test,raw\normal\labrum -sorted\000273.jpg,de88031e3c1f3eb8
+dataset\test\normal\normal_test_0024.jpg,normal,test,raw\normal\rotator_cuff\000278.jpg,cbcc5ba524264e5b
+dataset\test\normal\normal_test_0025.jpg,normal,test,raw\normal\rotator_cuff\000327.jpg,a9951a9355ed7192

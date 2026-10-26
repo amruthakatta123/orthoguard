@@ -1,0 +1,15 @@
+Best validation balanced accuracy: 0.938
+Test images: 35
+Test accuracy: 0.943
+Test balanced accuracy: 0.925
+
+class              support  precision   recall
+needs_attention          9       0.89     0.89
+normal                  26       0.96     0.96
+
+Confusion matrix (rows = true, columns = predicted):
+                    needs_atte      normal
+needs_attention              8           1
+normal                       1          25
+
+Recall on 'needs_attention': 0.89 (the share of truly serious cases the model caught)

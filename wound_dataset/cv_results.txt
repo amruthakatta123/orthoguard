@@ -1,0 +1,11 @@
+5-fold cross-validation, 208 images (each image tested once)
+
+finding     positives    AUC  caught  missed  false alarms
+redness            59   0.86      40      19            21
+swelling           15   0.83       9       6            30
+edges              15   0.92      11       4            23
+pus                12   0.82       8       4            27
+spreading          17   0.89      11       6            23
+dark               11   0.86       8       3            26
+
+Not tested (too few examples): clear (1)
